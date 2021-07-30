@@ -1,2 +1,2 @@
 # Kinder-3rdReading_Analysis
-Analysis I performed for the Early Learning Hub of Linn, Benton and Lincoln counties evaluating key factors in Kindergarteners influencing 3rd grade reading development.
+Analysis I performed for the Early Learning Hub of Linn, Benton and Lincoln counties evaluating key factors in Kindergarteners influencing 3rd grade reading development. I could not include the source file as it is part of a confidential data use agreement with the Oregon Department of Education (ODE). If interested in the data source, please reach out to me with additional questions.
